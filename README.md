@@ -40,12 +40,12 @@
 | Mar 26  | Social Network Analysis                                                                                                                                                         |                 
 | Mar 31  | Exam#2                                                                                                            |
 | Apr 02  | Project Update#2                                                                                                                |
-| Apr 07  | Transfer learning                                                                                                                                               |
-| Apr 09  | Anomaly Detection                                                                                                                                               |
-| Apr 14  | Genetic Algorithms                                                                                                                                              |
-| Apr 16  | Machine Learning in Industry                                                                                                                                    |
-| Apr 21  | Exam#3                                                                                                                                                          |
-| Apr 23  | Thanks giving, exam#3 grades distributed                                                                                                                        |    
+| Apr 07  | Student Presentation                                                                                                                                               |
+| Apr 09  | Student Presentation                                                                                                                                            |
+| Apr 14  | Student Presentation                                                                                                                                            |
+| Apr 16  | Student Presentation                                                                                                                                    |
+| Apr 21  | Student Presentation                                                                                                                                            |
+| Apr 23  | Reserve Day                                                                                                                        |    
 | Apr 28  | Project Presentation                                                                                             |
 | Apr 30  | Project Report                                                                                                                                       |
 | May 05  | Take home exam due                                                                                                                                |
